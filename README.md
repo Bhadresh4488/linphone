@@ -2,7 +2,7 @@
 一个快速集成sip的cocoapod库，免源码编译，支持模拟器调试。
 
 - dependency:
-[liblinphone (3.99.7)](https://gitlab.linphone.org/BC/public/Specs)
+[liblinphone](https://gitlab.linphone.org/BC/public/Specs)
 
 ## Installation
 
